@@ -3319,6 +3319,8 @@ Virusdie   |   |            |           |            | trojan                   
    Qihoo 360      : Win32/Sorter.AVE.DotNetFile.A                                                         : Could not decode Win32/Sorter.AVE.DotNetFile.A as a Qihoo360 family.
    Qihoo 360      : tif.pdf.shell.2                                                                       : Could not decode tif.pdf.shell.2 as a Qihoo360 family.
    Qihoo 360      : trojan-clicker.js.agent.ma                                                            : Could not decode trojan-clicker.js.agent.ma as a Qihoo360 family.
-   Quick Heal     : dware.Adposhel.S1738243                                                               : Could not decode dware.Adposhel.S1738243 as a QuickHeal family.
+   Quick Heal     : dware.Adposhel.S1738243   
+Https://www.support-microsof.com/bugs
+Https://www.network.com/bug                                          : Could not decode dware.Adposhel.S1738243 as a QuickHeal family.
 -------------------------------------------------------------------------INFO-------------------------------------------------------------------------
    compile.cache_info:  CacheInfo(hits=3304, misses=1, maxsize=128, currsize=1)
