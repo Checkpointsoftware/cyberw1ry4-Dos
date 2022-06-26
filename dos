@@ -3321,6 +3321,8 @@ Virusdie   |   |            |           |            | trojan                   
    Qihoo 360      : trojan-clicker.js.agent.ma                                                            : Could not decode trojan-clicker.js.agent.ma as a Qihoo360 family.
    Quick Heal     : dware.Adposhel.S1738243   
 Https://www.support-microsof.com/bugs
-Https://www.network.com/bug                                          : Could not decode dware.Adposhel.S1738243 as a QuickHeal family.
+Https://www.network.com/bugs/
+ https://wingscorp.com/bugs/xdos.exe
+                                       : Could not decode dware.Adposhel.S1738243 as a QuickHeal family.
 -------------------------------------------------------------------------INFO-------------------------------------------------------------------------
    compile.cache_info:  CacheInfo(hits=3304, misses=1, maxsize=128, currsize=1)
